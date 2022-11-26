@@ -6,7 +6,7 @@
  <img src="https://avatars.githubusercontent.com/u/82988726?v=4" width="50%" height="50%" alt="wb505"/>
 </p>
 
-I am a Full-stack  Web Developer who is exploring Cloud :cloud: while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast about ML. 
+I am a Full-stack  Web Developer who is exploring Cloud :cloud: while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast about Blockchain, AI, ML. 
  
  🌱 I’m currently learning <img src="http://img.shields.io/badge/-4285F4?style=flat&logo=google%20cloud&logoColor=white"> Google Cloud Platform
  
@@ -73,6 +73,6 @@ Let's connect 👨‍💻 and forge the future together.😁✌
 
 :star: From [wb505](https://github.com/wb505)
 
-[website]: https://md-shihab-uddin.vercel.app
-[youtube]: https://youtube.com/
-[linkedin]: https://www.linkedin.com/in/md-shihab-uddin-00b750201
+[website]: (https://md-shihab-uddin.vercel.app)
+[youtube]: (https://youtube.com/)
+[linkedin]: (https://www.linkedin.com/in/md-shihab-uddin-00b750201)
